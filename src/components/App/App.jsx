@@ -1,5 +1,5 @@
 import React from 'react';
-import GalleryList from './GalleryList/GalleryList';
+import GalleryList from '../GalleryList/GalleryList';
 
 function App() {
     return (
